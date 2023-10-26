@@ -9,13 +9,13 @@ This Python script allows you to perform port scanning on a specified target hos
 2. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/<username>/<repository>.git
+https://github.com/MOHAMMEDHAMRASH/Port_Scanner.git
 ```
 
 3. Navigate to the directory where the script is located.
 
 ```bash
-cd <repository>
+cd port_scanner
 ```
 
 4. Run the script.
